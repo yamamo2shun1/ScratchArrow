@@ -1,6 +1,17 @@
 # ScratchArrow
 Let's scratch!
 
+## Available on
+- [Printable](https://www.printables.com/model/1697626-scratch-arrow)
+- [Makerworld](https://makerworld.com/ja/models/2697586-scratch-arrow#profileId-2990023)
+
+## How to use
+Place it onto the turntable spindle before use.
+
+Apply double-sided tape to the back.  
+I personally recommend a slightly thicker tape with relatively mild adhesive strength.
+
+<img width="300" alt="Z0TtcQ1o" src="https://github.com/user-attachments/assets/5d5d79a0-baee-4ce7-981a-fc529c6c7cb8" />
 
 ## Size
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/eafe8e0f-5713-4c28-810a-58b5a966302e" />
