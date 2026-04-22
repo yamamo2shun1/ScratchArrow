@@ -11,11 +11,7 @@ Let's scratch!
 <img width="640" alt="DSCF8327" src="https://github.com/user-attachments/assets/28a2b001-5e1d-4e2a-a221-419df839afac" />
 
 ## License
-The hardware design files in this repository are licensed under the
-**CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**.
+The 3D model data in this repository is licensed under
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
-Unless otherwise stated, the following are treated as hardware design files covered by CERN-OHL-P-2.0:
-
-- 3D model data files(.plasticity .obj, .3mf)
-
-A copy of the license text is provided in the `LICENSE` file.
+See the [LICENSE](./LICENSE) file for the full license text.
