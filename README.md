@@ -1,5 +1,7 @@
 # ScratchArrow
-Let's scratch!
+Scratch Arrow is a tool that helps you quickly identify the cue point for scratching on a turntable.
+
+Unlike marker stickers, it is easy to reposition and fine-tune. It is also a small accessory with a bit of charm.
 
 ## Available on
 - [Printable](https://www.printables.com/model/1697626-scratch-arrow)
